@@ -1,0 +1,35 @@
+
+
+input[type="text"] {
+  width: 70%;
+  margin-left: 250px;
+  padding: 10px;
+  
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 10px 220px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.background-image {
+  background-image: url('../stockBackground.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100vh;
+}
+
+
+

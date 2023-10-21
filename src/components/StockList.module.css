@@ -1,0 +1,21 @@
+.flexContainer{
+    display:flex;
+    flex-direction: column;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.plus{
+    margin-left: 20px;
+    background-color: Black;
+    color: aliceblue;
+    padding: 5px 10px;
+
+}
+
+.plus:hover
+{
+    background-color:blue;
+}
